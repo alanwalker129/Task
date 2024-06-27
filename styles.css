@@ -6,7 +6,7 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-image: url("photographer.jpg"); /* The image used */
+    background-image: url("https://qtxasset.com/cdn-cgi/image/w=384,h=216,f=auto,fit=crop,g=0.5x0.5/https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1287274564%20%282%29.jpg?VersionId=ugFLE5ayKaFc62T6rq19sB5i9avVS80l"); /* The image used */
     background-color: #cccccc; /* Used if the image is unavailable */
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
